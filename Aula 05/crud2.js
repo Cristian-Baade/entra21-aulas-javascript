@@ -17,6 +17,8 @@ $("form").on("submit", function (event) {
         console.log("added")
 
     } else {
+
+        
         console.log("updated")
     }
 })
